@@ -56,13 +56,13 @@ noBtn.addEventListener('mouseover', () => {
     noBtn.style.top = `${y}px`;
 });
 
-noBtn.addEventListener('click', () => {
-    responseText.textContent = 'НNo? Alright then, but you’re still my Valentine anyway! 🤭';
-    gif.src = 'https://i.pinimg.com/originals/3e/47/7e/3e477e83c35e2a7a38f19ccdad163faa.gif';
-    yesBtn.style.display = 'none';
-    noBtn.style.display = 'none';
-    title.style.display = 'none';
-});
+// noBtn.addEventListener('click', () => {
+//     responseText.textContent = 'НNo? Alright then, but you’re still my Valentine anyway! 🤭';
+//     gif.src = 'https://i.pinimg.com/originals/3e/47/7e/3e477e83c35e2a7a38f19ccdad163faa.gif';
+//     yesBtn.style.display = 'none';
+//     noBtn.style.display = 'none';
+//     title.style.display = 'none';
+// });
 
 // hearts animation
 
